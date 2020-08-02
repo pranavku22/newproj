@@ -1,0 +1,6 @@
+class pranav {
+	public static void main ( string[] args {
+		system.out.println("This is the first program here");
+}
+}
+
